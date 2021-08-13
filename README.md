@@ -7,13 +7,14 @@
 
 #### ⭐ Recent Stars
 
-- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template (4 days ago)
+- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template (5 days ago)
 - [toilahung/backend-social](https://github.com/toilahung/backend-social) -  (2 years ago)
 - [toilahung/backend-social-hung](https://github.com/toilahung/backend-social-hung) - new repo (2 years ago)
 - [toilahung/frontend-social](https://github.com/toilahung/frontend-social) -  (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
+- [hoanbi1812000](https://github.com/hoanbi1812000)
 - [danhhhh](https://github.com/danhhhh)
 - [logit507](https://github.com/logit507)
 - [changtraixuqang97](https://github.com/changtraixuqang97)
