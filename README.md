@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs (today)
+- [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs (1 day ago)
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template (1 week ago)
 - [toilahung/backend-social](https://github.com/toilahung/backend-social) -  (2 years ago)
 - [toilahung/backend-social-hung](https://github.com/toilahung/backend-social-hung) - new repo (2 years ago)
