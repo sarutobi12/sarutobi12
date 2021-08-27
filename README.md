@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (today)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 days ago)
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (1 day ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (3 days ago)
 - [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (1 week ago)
 - [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs (1 week ago)
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template (2 weeks ago)
