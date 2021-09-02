@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (1 day ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (3 days ago)
-- [badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro. (4 days ago)
-- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (6 days ago)
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (2 days ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (4 days ago)
+- [badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro. (5 days ago)
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (1 week ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 week ago)
-- [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (1 week ago)
+- [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (2 weeks ago)
 - [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs (2 weeks ago)
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template (3 weeks ago)
 - [toilahung/backend-social](https://github.com/toilahung/backend-social) -  (2 years ago)
