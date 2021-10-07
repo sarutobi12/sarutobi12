@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business (5 days ago)
+- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (today)
+- [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business (6 days ago)
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files. (1 week ago)
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd&#43;k interface for your site (1 week ago)
 - [davidpdrsn/todo-or-die](https://github.com/davidpdrsn/todo-or-die) - TODOs you cannot forget! (1 week ago)
@@ -16,7 +17,6 @@
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (3 weeks ago)
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (4 weeks ago)
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) -  (1 month ago)
-- [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
