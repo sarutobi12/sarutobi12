@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (1 day ago)
+- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (2 days ago)
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business (1 week ago)
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files. (1 week ago)
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd&#43;k interface for your site (1 week ago)
