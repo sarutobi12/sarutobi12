@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Toolkit for Prompt-Learning. (1 day ago)
-- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (2 days ago)
-- [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (3 days ago)
-- [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (4 days ago)
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (5 days ago)
-- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30&#43; notebooks on learning machine learning! (6 days ago)
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Toolkit for Prompt-Learning. (2 days ago)
+- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (3 days ago)
+- [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (4 days ago)
+- [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (5 days ago)
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (6 days ago)
+- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30&#43; notebooks on learning machine learning! (1 week ago)
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (1 week ago)
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (2 weeks ago)
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business (3 weeks ago)
