@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip (1 day ago)
-- [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables. (2 days ago)
-- [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine. (3 days ago)
-- [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (4 days ago)
+- [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip (2 days ago)
+- [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables. (3 days ago)
+- [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine. (4 days ago)
+- [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (5 days ago)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Toolkit for Prompt-Learning. (1 week ago)
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (1 week ago)
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (1 week ago)
