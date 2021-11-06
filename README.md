@@ -11,7 +11,7 @@
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables. (1 week ago)
 - [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine. (1 week ago)
 - [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (1 week ago)
-- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Toolkit for Prompt-Learning. (1 week ago)
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Toolkit for Prompt-Learning. (2 weeks ago)
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (2 weeks ago)
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (2 weeks ago)
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (2 weeks ago)
