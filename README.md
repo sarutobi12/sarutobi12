@@ -16,7 +16,7 @@
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (3 weeks ago)
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (3 weeks ago)
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (3 weeks ago)
-- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30&#43; notebooks on learning machine learning! (3 weeks ago)
+- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30&#43; notebooks on learning machine learning! (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
