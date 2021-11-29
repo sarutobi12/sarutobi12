@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) -  (today)
+- [klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) -  (1 day ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (1 week ago)
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] (1 week ago)
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip (1 month ago)
