@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (today)
-- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (1 day ago)
-- [ChendoChap/pOOBs4](https://github.com/ChendoChap/pOOBs4) -  (5 days ago)
-- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (6 days ago)
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression (1 day ago)
+- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (2 days ago)
+- [ChendoChap/pOOBs4](https://github.com/ChendoChap/pOOBs4) -  (6 days ago)
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (1 week ago)
 - [sail-sg/poolformer](https://github.com/sail-sg/poolformer) - PoolFormer: MetaFormer is Actually What You Need for Vision (1 week ago)
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes (1 week ago)
 - [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册 (1 week ago)
