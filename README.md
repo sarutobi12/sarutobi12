@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (today)
-- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (3 days ago)
-- [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (4 days ago)
-- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (1 week ago)
+- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 day ago)
+- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (4 days ago)
+- [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (5 days ago)
+- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (2 weeks ago)
 - [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app) - Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell. (2 weeks ago)
 - [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter. (2 weeks ago)
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression (3 weeks ago)
