@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming (1 day ago)
-- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (5 days ago)
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming (2 days ago)
+- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (6 days ago)
 - [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (1 week ago)
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (1 week ago)
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (2 weeks ago)
