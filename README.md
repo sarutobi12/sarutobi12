@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming (2 days ago)
-- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (6 days ago)
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (today)
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming (3 days ago)
+- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 week ago)
 - [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (1 week ago)
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (1 week ago)
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (2 weeks ago)
@@ -16,7 +17,6 @@
 - [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter. (3 weeks ago)
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression (1 month ago)
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (1 month ago)
-- [ChendoChap/pOOBs4](https://github.com/ChendoChap/pOOBs4) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
