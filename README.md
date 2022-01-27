@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (5 days ago)
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (6 days ago)
 - [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming (1 week ago)
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 week ago)
 - [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (2 weeks ago)
