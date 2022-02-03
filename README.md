@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (today)
+- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (1 day ago)
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (1 week ago)
 - [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming (2 weeks ago)
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (2 weeks ago)
