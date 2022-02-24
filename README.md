@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (1 day ago)
-- [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation (5 days ago)
+- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (2 days ago)
+- [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation (6 days ago)
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) (1 week ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (2 weeks ago)
 - [chiru-labs/ERC721A](https://github.com/chiru-labs/ERC721A) - https://ERC721A.org (2 weeks ago)
