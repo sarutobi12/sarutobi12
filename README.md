@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (1 day ago)
-- [4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview) - 打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作 (5 days ago)
+- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (2 days ago)
+- [4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview) - 打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作 (6 days ago)
 - [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (1 week ago)
 - [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation (1 week ago)
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) (2 weeks ago)
