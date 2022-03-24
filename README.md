@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Cyber-Guy1/API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire) - API Security Project aims to present unique attack &amp; defense methods in API Security field (4 days ago)
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (today)
+- [Cyber-Guy1/API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire) - API Security Project aims to present unique attack &amp; defense methods in API Security field (5 days ago)
 - [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? (1 week ago)
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers (1 week ago)
 - [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe) (1 week ago)
@@ -16,15 +17,14 @@
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (2 weeks ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 weeks ago)
 - [vvmdx/Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ (2 weeks ago)
-- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [X601169957911](https://github.com/X601169957911)
 - [hackdou](https://github.com/hackdou)
 - [notmariekondo](https://github.com/notmariekondo)
 - [snowwhite-boss](https://github.com/snowwhite-boss)
 - [Hiimsonkul](https://github.com/Hiimsonkul)
-- [vinicius-goncalves](https://github.com/vinicius-goncalves)
 
 #### 💬 Feedback
 
