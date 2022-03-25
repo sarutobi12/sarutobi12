@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (today)
-- [Cyber-Guy1/API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire) - API Security Project aims to present unique attack &amp; defense methods in API Security field (5 days ago)
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 day ago)
+- [Cyber-Guy1/API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire) - API Security Project aims to present unique attack &amp; defense methods in API Security field (6 days ago)
 - [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? (1 week ago)
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers (1 week ago)
 - [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe) (1 week ago)
-- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) (1 week ago)
+- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) (2 weeks ago)
 - [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple&#39;s tracking protection features (2 weeks ago)
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (2 weeks ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 weeks ago)
