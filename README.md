@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (2 days ago)
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (6 days ago)
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 days ago)
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (1 week ago)
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game (1 week ago)
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI&#39;s updated text-to-image synthesis neural network,  in Pytorch (1 week ago)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (2 weeks ago)
