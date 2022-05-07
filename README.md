@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [zc2638/ddshop](https://github.com/zc2638/ddshop) - 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品） (today)
+- [zc2638/ddshop](https://github.com/zc2638/ddshop) - 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品） (1 day ago)
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (1 week ago)
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game. (1 week ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (2 weeks ago)
