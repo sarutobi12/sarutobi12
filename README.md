@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [twostraws/simple-swiftui](https://github.com/twostraws/simple-swiftui) - A collection of small SwiftUI sample projects. (today)
-- [zc2638/ddshop](https://github.com/zc2638/ddshop) - 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品） (4 days ago)
-- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (1 week ago)
+- [twostraws/simple-swiftui](https://github.com/twostraws/simple-swiftui) - A collection of small SwiftUI sample projects. (1 day ago)
+- [zc2638/ddshop](https://github.com/zc2638/ddshop) - 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品） (5 days ago)
+- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (2 weeks ago)
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game. (2 weeks ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (2 weeks ago)
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (3 weeks ago)
