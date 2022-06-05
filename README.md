@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (2 days ago)
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ (3 days ago)
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (3 days ago)
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ (4 days ago)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (1 week ago)
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English (1 week ago)
 - [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li (2 weeks ago)
