@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (today)
-- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 day ago)
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.  (4 days ago)
+- [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (1 day ago)
+- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (2 days ago)
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.  (5 days ago)
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (1 week ago)
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (1 week ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (1 week ago)
