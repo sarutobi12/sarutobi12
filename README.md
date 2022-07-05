@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts (today)
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (today)
+- [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts (1 day ago)
 - [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (1 week ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 week ago)
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.  (1 week ago)
@@ -16,7 +17,6 @@
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (2 weeks ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (2 weeks ago)
 - [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (3 weeks ago)
-- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
