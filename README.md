@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (today)
-- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (6 days ago)
+- [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software (today)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 day ago)
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (1 week ago)
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts (1 week ago)
 - [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (2 weeks ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (2 weeks ago)
@@ -16,7 +17,6 @@
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (3 weeks ago)
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (3 weeks ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (3 weeks ago)
-- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
