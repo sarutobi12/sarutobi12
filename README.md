@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [teamssix/cf](https://github.com/teamssix/cf) - 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 (2 days ago)
-- [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (6 days ago)
+- [teamssix/cf](https://github.com/teamssix/cf) - 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 (3 days ago)
+- [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (1 week ago)
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software (1 week ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 week ago)
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (2 weeks ago)
