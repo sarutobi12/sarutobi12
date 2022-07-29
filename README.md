@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (today)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 day ago)
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马，一种新型内存马技术 (1 week ago)
 - [teamssix/cf](https://github.com/teamssix/cf) - Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 (1 week ago)
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (2 weeks ago)
