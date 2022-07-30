@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 day ago)
+- [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。 (today)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (2 days ago)
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马，一种新型内存马技术 (1 week ago)
 - [teamssix/cf](https://github.com/teamssix/cf) - Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 (1 week ago)
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (2 weeks ago)
@@ -16,7 +17,6 @@
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (3 weeks ago)
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts (3 weeks ago)
 - [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (1 month ago)
-- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
