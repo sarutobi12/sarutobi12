@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11 (today)
-- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (1 day ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 days ago)
-- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (4 days ago)
+- [hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11 (1 day ago)
+- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (2 days ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (4 days ago)
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (5 days ago)
 - [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (1 week ago)
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (1 week ago)
 - [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (1 week ago)
