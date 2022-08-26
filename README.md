@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps (3 days ago)
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (6 days ago)
+- [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps (4 days ago)
+- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (1 week ago)
 - [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (1 week ago)
 - [hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11 (2 weeks ago)
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (2 weeks ago)
