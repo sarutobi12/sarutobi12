@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (1 day ago)
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (2 days ago)
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps (1 week ago)
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (1 week ago)
 - [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (2 weeks ago)
