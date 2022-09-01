@@ -7,15 +7,15 @@
 
 #### ⭐ Recent Stars
 
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (3 days ago)
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (4 days ago)
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps (1 week ago)
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (1 week ago)
 - [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (2 weeks ago)
-- [hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11 (2 weeks ago)
+- [hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11 (3 weeks ago)
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (3 weeks ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 weeks ago)
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (3 weeks ago)
-- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (3 weeks ago)
+- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (4 weeks ago)
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
