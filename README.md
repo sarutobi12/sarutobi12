@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具 (3 days ago)
-- [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble&#39;s Private Detector - a pretrained model for detecting lewd images (4 days ago)
+- [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具 (4 days ago)
+- [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble&#39;s Private Detector - a pretrained model for detecting lewd images (5 days ago)
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics (1 week ago)
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red &amp; Blue Team operations (1 week ago)
 - [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods (2 weeks ago)
