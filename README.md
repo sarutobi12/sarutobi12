@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App. (today)
-- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (1 day ago)
-- [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具 (6 days ago)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App. (1 day ago)
+- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (2 days ago)
+- [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具 (1 week ago)
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble&#39;s Private Detector - a pretrained model for detecting lewd images (1 week ago)
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics (1 week ago)
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red &amp; Blue Team operations (1 week ago)
