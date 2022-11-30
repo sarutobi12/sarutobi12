@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的IPTV直播源搜集仓库 (today)
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (1 day ago)
-- [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15 (5 days ago)
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (today)
+- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的IPTV直播源搜集仓库 (1 day ago)
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2 days ago)
+- [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15 (6 days ago)
 - [NCSC-NL/OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022) - Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3 (1 week ago)
-- [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG and PDF using Chromium (1 week ago)
+- [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG and PDF using Chromium (2 weeks ago)
 - [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users (2 weeks ago)
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (2 weeks ago)
 - [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API (2 weeks ago)
 - [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion (3 weeks ago)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
