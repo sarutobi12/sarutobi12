@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (today)
-- [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command! (1 day ago)
-- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) (3 days ago)
-- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale (5 days ago)
+- [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (1 day ago)
+- [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command! (2 days ago)
+- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) (4 days ago)
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale (6 days ago)
 - [google/mangle](https://github.com/google/mangle) -  (1 week ago)
 - [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid. (1 week ago)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (1 week ago)
