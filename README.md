@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (5 days ago)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (6 days ago)
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (1 week ago)
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command! (1 week ago)
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) (2 weeks ago)
