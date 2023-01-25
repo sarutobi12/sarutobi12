@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E, WIP (3 days ago)
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (4 days ago)
+- [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E, WIP (4 days ago)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (5 days ago)
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥 (3 weeks ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (3 weeks ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (4 weeks ago)
