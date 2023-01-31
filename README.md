@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (1 day ago)
-- [hiifeng/V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng. (4 days ago)
+- [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (2 days ago)
+- [hiifeng/V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng. (5 days ago)
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E, WIP (1 week ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 week ago)
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥 (1 month ago)
