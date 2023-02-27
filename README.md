@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (today)
+- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (1 day ago)
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet (1 week ago)
 - [acikkaynak/deprem-yardim-frontend](https://github.com/acikkaynak/deprem-yardim-frontend) - release canditate: https://rc.afetharita.com/ (1 week ago)
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps (1 week ago)
