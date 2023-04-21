@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (4 days ago)
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (6 days ago)
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (5 days ago)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 week ago)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI. (1 week ago)
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here (2 weeks ago)
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. (3 weeks ago)
