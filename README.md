@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper &amp; GPT-based app for crushing remote SWE interviews (today)
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (1 day ago)
+- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper &amp; GPT-based app for crushing remote SWE interviews (1 day ago)
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (2 days ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (1 week ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 week ago)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI. (2 weeks ago)
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here (2 weeks ago)
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. (3 weeks ago)
-- [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100&#43;站点 (3 weeks ago)
+- [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100&#43;站点 (4 weeks ago)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖 (4 weeks ago)
-- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结&#43;润色&#43;审稿&#43;审稿回复 (4 weeks ago)
+- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结&#43;润色&#43;审稿&#43;审稿回复 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
