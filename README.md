@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (today)
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation. (2 days ago)
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 day ago)
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation. (3 days ago)
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper &amp; GPT-based app for crushing remote SWE interviews (1 week ago)
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (1 week ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (2 weeks ago)
