@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities. (1 day ago)
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities. (2 days ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 week ago)
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation. (1 week ago)
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper &amp; GPT-based app for crushing remote SWE interviews (2 weeks ago)
