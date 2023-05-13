@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI  (3 days ago)
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities. (6 days ago)
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool (today)
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI  (4 days ago)
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities. (1 week ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 week ago)
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation. (2 weeks ago)
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper &amp; GPT-based app for crushing remote SWE interviews (2 weeks ago)
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (2 weeks ago)
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (3 weeks ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5. (3 weeks ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (4 weeks ago)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI. (1 month ago)
-- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
