@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese (today)
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it&#39;s now feasible for every dev to have their own smol developer (3 days ago)
+- [CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese (1 day ago)
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it&#39;s now feasible for every dev to have their own smol developer (4 days ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models (1 week ago)
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone&#39;s devices. (1 week ago)
