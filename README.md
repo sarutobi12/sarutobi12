@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (3 days ago)
-- [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (6 days ago)
+- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (4 days ago)
+- [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (1 week ago)
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (1 week ago)
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (1 week ago)
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software (1 week ago)
