@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [zksync/credo](https://github.com/zksync/credo) -  (5 days ago)
-- [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation (6 days ago)
+- [zksync/credo](https://github.com/zksync/credo) -  (6 days ago)
+- [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation (1 week ago)
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (1 week ago)
 - [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (2 weeks ago)
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [qquratulain](https://github.com/qquratulain)
 - [cumsoft](https://github.com/cumsoft)
 - [liuliuli](https://github.com/liuliuli)
 - [X601169957911](https://github.com/X601169957911)
 - [hackdou](https://github.com/hackdou)
-- [notmariekondo](https://github.com/notmariekondo)
 
 #### 💬 Feedback
 
