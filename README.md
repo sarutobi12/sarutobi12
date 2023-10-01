@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [iam-veeramalla/terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) - Master Terraform in 7 days using this Zero to Hero course. (1 day ago)
-- [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.  (3 days ago)
+- [iam-veeramalla/terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) - Master Terraform in 7 days using this Zero to Hero course. (2 days ago)
+- [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.  (4 days ago)
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat &amp; pretrained large vision language model proposed by Alibaba Cloud. (2 weeks ago)
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator. (2 weeks ago)
 - [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (2 weeks ago)
