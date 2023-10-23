@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (1 day ago)
-- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (2 days ago)
-- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code (5 days ago)
+- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (2 days ago)
+- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (3 days ago)
+- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code (6 days ago)
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (1 week ago)
 - [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) -  (1 week ago)
 - [joschan21/quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13 (1 week ago)
