@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (today)
-- [vercel/geist-font](https://github.com/vercel/geist-font) -  (1 day ago)
-- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (2 days ago)
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙 (6 days ago)
+- [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (1 day ago)
+- [vercel/geist-font](https://github.com/vercel/geist-font) -  (2 days ago)
+- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (3 days ago)
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙 (1 week ago)
 - [SidraChain/go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol. (1 week ago)
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (1 week ago)
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。 (1 week ago)
