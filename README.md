@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (today)
-- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (1 day ago)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (1 day ago)
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (2 days ago)
 - [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (1 week ago)
 - [vercel/geist-font](https://github.com/vercel/geist-font) -  (1 week ago)
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (1 week ago)
