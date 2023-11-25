@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (1 day ago)
-- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (2 days ago)
+- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (today)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (2 days ago)
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (3 days ago)
 - [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (1 week ago)
 - [vercel/geist-font](https://github.com/vercel/geist-font) -  (1 week ago)
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (1 week ago)
@@ -16,7 +17,6 @@
 - [SidraChain/go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol. (2 weeks ago)
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (2 weeks ago)
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。 (2 weeks ago)
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
