@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (today)
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community (1 week ago)
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond (1 week ago)
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频 (1 week ago)
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (2 weeks ago)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (2 weeks ago)
-- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (2 weeks ago)
-- [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (3 weeks ago)
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (3 weeks ago)
+- [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (4 weeks ago)
 - [vercel/geist-font](https://github.com/vercel/geist-font) -  (4 weeks ago)
-- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (4 weeks ago)
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙 (1 month ago)
+- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
