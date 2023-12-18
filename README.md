@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL) -  (1 day ago)
-- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (4 days ago)
+- [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL) -  (2 days ago)
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (5 days ago)
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community (1 week ago)
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond (2 weeks ago)
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频 (2 weeks ago)
