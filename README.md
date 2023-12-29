@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (today)
-- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (4 days ago)
-- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (5 days ago)
-- [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (6 days ago)
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (1 day ago)
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (5 days ago)
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (6 days ago)
+- [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (1 week ago)
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn&#39;t require plus subscription  (1 week ago)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (2 weeks ago)
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community (3 weeks ago)
