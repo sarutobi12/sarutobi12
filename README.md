@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (5 days ago)
+- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (6 days ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (1 week ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (1 week ago)
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (2 weeks ago)
