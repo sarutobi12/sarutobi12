@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (today)
+- [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (1 day ago)
 - [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (1 week ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (2 weeks ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (2 weeks ago)
-- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (2 weeks ago)
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (3 weeks ago)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (3 weeks ago)
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (3 weeks ago)
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn&#39;t require plus subscription  (3 weeks ago)
