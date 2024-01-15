@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (1 day ago)
-- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (1 week ago)
+- [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (2 days ago)
+- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - A simply toy demo of a local voice assistant with whisper and large language model. (1 week ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (2 weeks ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (2 weeks ago)
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (3 weeks ago)
