@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (5 days ago)
+- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (6 days ago)
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (1 week ago)
-- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - A simple toy demo of a local voice assistant with whisper and large language model. (2 weeks ago)
+- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - A simple toy demo of a local voice assistant with whisper and large language model. (3 weeks ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (3 weeks ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (3 weeks ago)
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (1 month ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [cassimahmedattia](https://github.com/cassimahmedattia)
 - [Susantododi](https://github.com/Susantododi)
 - [czy30121](https://github.com/czy30121)
 - [cumsoft](https://github.com/cumsoft)
 - [liuliuli](https://github.com/liuliuli)
-- [X601169957911](https://github.com/X601169957911)
 
 #### 💬 Feedback
 
