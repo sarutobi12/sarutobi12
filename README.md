@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (6 days ago)
+- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (1 week ago)
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (1 week ago)
 - [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - A simple toy demo of a local voice assistant with whisper and large language model. (3 weeks ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (3 weeks ago)
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (3 weeks ago)
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (4 weeks ago)
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation (1 month ago)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (1 month ago)
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (1 month ago)
