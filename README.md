@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: &#34;Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering&#34;&#34; (5 days ago)
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language (6 days ago)
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (today)
+- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: &#34;Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering&#34;&#34; (6 days ago)
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language (1 week ago)
 - [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 (1 week ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 week ago)
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (1 week ago)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (2 weeks ago)
 - [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille) -  (2 weeks ago)
 - [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (3 weeks ago)
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海 (4 weeks ago)
 - [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - A simple toy demo of a local voice assistant with whisper and large language model. (1 month ago)
-- [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
