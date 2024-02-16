@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (4 days ago)
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (5 days ago)
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: &#34;Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering&#34;&#34; (1 week ago)
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90&#43; languages (1 week ago)
 - [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 (1 week ago)
