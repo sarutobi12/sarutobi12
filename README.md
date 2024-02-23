@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (3 days ago)
-- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (5 days ago)
+- [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (4 days ago)
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (6 days ago)
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (1 week ago)
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: &#34;Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering&#34;&#34; (2 weeks ago)
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90&#43; languages (2 weeks ago)
