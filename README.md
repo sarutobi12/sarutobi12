@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (6 days ago)
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (1 week ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 week ago)
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (2 weeks ago)
