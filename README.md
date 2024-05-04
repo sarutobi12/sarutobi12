@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (1 day ago)
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (2 days ago)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 week ago)
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for &#34;Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models&#34; (1 week ago)
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) (3 weeks ago)
