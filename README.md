@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [TheOfficialFloW/PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE (today)
-- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (6 days ago)
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 week ago)
+- [TheOfficialFloW/PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE (1 day ago)
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (1 week ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (2 weeks ago)
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for &#34;Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models&#34; (2 weeks ago)
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) (3 weeks ago)
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web. (4 weeks ago)
