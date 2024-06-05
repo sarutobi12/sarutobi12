@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (today)
-- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time (2 days ago)
-- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (4 days ago)
+- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (1 day ago)
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time (3 days ago)
+- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (5 days ago)
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11 (1 week ago)
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology. (1 week ago)
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 week ago)
