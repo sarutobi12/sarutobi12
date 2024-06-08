@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [WasperAI/Wasper](https://github.com/WasperAI/Wasper) -  (today)
-- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (3 days ago)
-- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time (5 days ago)
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (today)
+- [WasperAI/Wasper](https://github.com/WasperAI/Wasper) -  (1 day ago)
+- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (4 days ago)
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time (6 days ago)
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (1 week ago)
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11 (1 week ago)
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology. (1 week ago)
-- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 week ago)
+- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (2 weeks ago)
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments. (2 weeks ago)
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. (3 weeks ago)
-- [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
