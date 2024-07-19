@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - From anything to mesh like human artists. Official impl. of &#34;MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers&#34; (4 days ago)
+- [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - From anything to mesh like human artists. Official impl. of &#34;MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers&#34; (5 days ago)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (1 week ago)
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence (2 weeks ago)
 - [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF (2 weeks ago)
