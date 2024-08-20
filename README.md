@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1 (4 days ago)
+- [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1 (5 days ago)
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B (1 week ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (1 week ago)
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini (1 week ago)
