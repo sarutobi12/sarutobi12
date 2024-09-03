@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (today)
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (2 days ago)
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (3 days ago)
+- [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (1 day ago)
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (3 days ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (4 days ago)
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (1 week ago)
 - [jofpin/synthBTC](https://github.com/jofpin/synthBTC) - A tool that uses advanced Monte Carlo simulations and Turbit parallel processing to create possible Bitcoin prediction scenarios. (1 week ago)
 - [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA: Towards Open-Source Interactive Omni Multimodal LLM (1 week ago)
