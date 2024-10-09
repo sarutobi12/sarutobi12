@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (1 day ago)
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (2 days ago)
+- [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (2 days ago)
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (3 days ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (1 week ago)
 - [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support (1 week ago)
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0 (3 weeks ago)
