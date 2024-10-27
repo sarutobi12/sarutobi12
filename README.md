@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [AdeiltonPereiraAlves/BlazingTool](https://github.com/AdeiltonPereiraAlves/BlazingTool) - Brute force ethereum wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet&#39;s information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt. (today)
+- [AdeiltonPereiraAlves/BlazingTool](https://github.com/AdeiltonPereiraAlves/BlazingTool) - Brute force ethereum wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet&#39;s information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt. (1 day ago)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (1 week ago)
 - [jy0205/Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - Code of Pyramidal Flow Matching for Efficient Video Generative Modeling (1 week ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 week ago)
@@ -15,8 +15,8 @@
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (2 weeks ago)
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (2 weeks ago)
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (2 weeks ago)
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (2 weeks ago)
-- [voideditor/void](https://github.com/voideditor/void) -  (4 weeks ago)
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (3 weeks ago)
+- [voideditor/void](https://github.com/voideditor/void) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
