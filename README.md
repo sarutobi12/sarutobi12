@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [AdeiltonPereiraAlves/BlazingTool](https://github.com/AdeiltonPereiraAlves/BlazingTool) - Brute force ethereum wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet&#39;s information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt. (2 days ago)
+- [origin-space/originui](https://github.com/origin-space/originui) -  (today)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (1 week ago)
 - [jy0205/Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - Code of Pyramidal Flow Matching for Efficient Video Generative Modeling (1 week ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 week ago)
-- [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (1 week ago)
+- [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (2 weeks ago)
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (2 weeks ago)
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (2 weeks ago)
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (3 weeks ago)
