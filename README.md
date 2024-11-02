@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [origin-space/originui](https://github.com/origin-space/originui) -  (3 days ago)
-- [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (1 week ago)
+- [origin-space/originui](https://github.com/origin-space/originui) -  (4 days ago)
+- [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (2 weeks ago)
 - [jy0205/Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - Code of Pyramidal Flow Matching for Efficient Video Generative Modeling (2 weeks ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (2 weeks ago)
 - [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (2 weeks ago)
