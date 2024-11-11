@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs (today)
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation (2 days ago)
+- [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs (1 day ago)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation (3 days ago)
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js  (1 week ago)
 - [origin-space/originui](https://github.com/origin-space/originui) -  (1 week ago)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (3 weeks ago)
