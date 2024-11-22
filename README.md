@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (2 days ago)
-- [nvellas/Functor-Bot](https://github.com/nvellas/Functor-Bot) - Functor-Reger Functor-Farmer Functor-Miner Functor-Multireger Functor-Multifarmer Functor-Extension-Bot Functor-Bot Functor-Multiwallet Functor-AutoFarm Functor-multibot Functor-software Functor-BotMiner FunctorNode Functor-DePIn (3 days ago)
+- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (3 days ago)
+- [nvellas/Functor-Bot](https://github.com/nvellas/Functor-Bot) - Functor-Reger Functor-Farmer Functor-Miner Functor-Multireger Functor-Multifarmer Functor-Extension-Bot Functor-Bot Functor-Multiwallet Functor-AutoFarm Functor-multibot Functor-software Functor-BotMiner FunctorNode Functor-DePIn (4 days ago)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (1 week ago)
 - [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs (1 week ago)
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (1 week ago)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (2 weeks ago)
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js  (2 weeks ago)
 - [origin-space/originui](https://github.com/origin-space/originui) -  (3 weeks ago)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (1 month ago)
