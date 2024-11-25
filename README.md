@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers (today)
-- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (5 days ago)
-- [nvellas/Functor-Bot](https://github.com/nvellas/Functor-Bot) - Functor-Reger Functor-Farmer Functor-Miner Functor-Multireger Functor-Multifarmer Functor-Extension-Bot Functor-Bot Functor-Multiwallet Functor-AutoFarm Functor-multibot Functor-software Functor-BotMiner FunctorNode Functor-DePIn (6 days ago)
+- [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers (1 day ago)
+- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (6 days ago)
+- [nvellas/Functor-Bot](https://github.com/nvellas/Functor-Bot) - Functor-Reger Functor-Farmer Functor-Miner Functor-Multireger Functor-Multifarmer Functor-Extension-Bot Functor-Bot Functor-Multiwallet Functor-AutoFarm Functor-multibot Functor-software Functor-BotMiner FunctorNode Functor-DePIn (1 week ago)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (1 week ago)
 - [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs (2 weeks ago)
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (2 weeks ago)
